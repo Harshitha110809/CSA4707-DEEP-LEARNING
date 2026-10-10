@@ -1,3 +1,4 @@
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -41,3 +42,13 @@ plt.xlabel("Predicted Label")
 plt.ylabel("True Label")
 plt.title("Confusion Matrix")
 plt.show()![Uploading EX2.png…]()
+```
+![Output](EX2.png)
+
+
+
+
+
+
+
+
